@@ -29,6 +29,6 @@ To try the MP3 player:
 
 Or try it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Music-player-app/)
 
 ## Let’s code with rhythm and master JavaScript string and array methods! 🎧🎼
